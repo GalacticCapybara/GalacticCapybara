@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and games.
 - 🌱 I’m currently learning Front-End technologies and some Linux stuffs.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me here on Github.
+- 📫 How to reach me ...
 
 <!---
 GalacticCapybara/GalacticCapybara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
